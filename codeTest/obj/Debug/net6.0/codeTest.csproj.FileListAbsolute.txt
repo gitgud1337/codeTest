@@ -1,0 +1,15 @@
+C:\Users\Patric\Documents\repos\codeTest\codeTest\bin\Debug\net6.0\codeTest.exe
+C:\Users\Patric\Documents\repos\codeTest\codeTest\bin\Debug\net6.0\codeTest.deps.json
+C:\Users\Patric\Documents\repos\codeTest\codeTest\bin\Debug\net6.0\codeTest.runtimeconfig.json
+C:\Users\Patric\Documents\repos\codeTest\codeTest\bin\Debug\net6.0\codeTest.dll
+C:\Users\Patric\Documents\repos\codeTest\codeTest\bin\Debug\net6.0\ref\codeTest.dll
+C:\Users\Patric\Documents\repos\codeTest\codeTest\bin\Debug\net6.0\codeTest.pdb
+C:\Users\Patric\Documents\repos\codeTest\codeTest\obj\Debug\net6.0\codeTest.csproj.AssemblyReference.cache
+C:\Users\Patric\Documents\repos\codeTest\codeTest\obj\Debug\net6.0\codeTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Patric\Documents\repos\codeTest\codeTest\obj\Debug\net6.0\codeTest.AssemblyInfoInputs.cache
+C:\Users\Patric\Documents\repos\codeTest\codeTest\obj\Debug\net6.0\codeTest.AssemblyInfo.cs
+C:\Users\Patric\Documents\repos\codeTest\codeTest\obj\Debug\net6.0\codeTest.csproj.CoreCompileInputs.cache
+C:\Users\Patric\Documents\repos\codeTest\codeTest\obj\Debug\net6.0\codeTest.dll
+C:\Users\Patric\Documents\repos\codeTest\codeTest\obj\Debug\net6.0\ref\codeTest.dll
+C:\Users\Patric\Documents\repos\codeTest\codeTest\obj\Debug\net6.0\codeTest.pdb
+C:\Users\Patric\Documents\repos\codeTest\codeTest\obj\Debug\net6.0\codeTest.genruntimeconfig.cache
